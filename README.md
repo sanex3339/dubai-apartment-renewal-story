@@ -4,4 +4,4 @@
 
 Страница:
 
-https://sanex3339.github.io/dubai-rent-renewal-guide/
+https://sanex3339.github.io/dubai-apartment-renewal-story/
