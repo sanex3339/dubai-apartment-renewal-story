@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Как продлить аренду в Дубае через RDC"
+description: "Мой реальный опыт продления аренды через RERA, Offer & Deposit, Tableegh и RDC Lease Renewal Claim."
+---
+
 # Как я продлевал аренду через RDC, когда landlord отказался подписывать renewal по RERA price
 
 Мой договор аренды заканчивался **31 августа 2026 года**. Текущая годовая аренда была **55,000 AED**.
